@@ -13,6 +13,10 @@ Passion Projects:
 Board member for a non profit promoting professional coaching, STEM Outreach for underrepresented populations and mentoring for college students majoring in MIS (Management Information Systems)
 Technologies: Flask, 
 
+Resources:
+- https://flask.palletsprojects.com/en/2.0.x/
+- 
+
 -
 Technologies:
 
