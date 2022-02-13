@@ -10,17 +10,20 @@
 Passion Projects:
 
 - http://caesar00.pythonanywhere.com/
-Board member for a non profit promoting professional coaching, STEM Outreach for underrepresented populations and mentoring for college students majoring in MIS (Management Information Systems)
-Technologies: Flask, 
+Board member for an IT non profit called the Society of Information Management (https://chapter.simnet.org/portland/home) promoting professional coaching, STEM Outreach for underrepresented populations and mentoring for college students majoring in MIS (Management Information Systems)
+Technologies: Django, Flask
 
 Resources:
-- https://flask.palletsprojects.com/en/2.0.x/
-- 
-
 -
+
 Technologies:
 
 
 Skills:
 - Data Science: NumPy, Pandas
 - 
+
+Certifications:
+- AWS Cloud Practitioner 
+- Microsoft Azure Fundamentals
+- Certified Scrum Master (CSM)
