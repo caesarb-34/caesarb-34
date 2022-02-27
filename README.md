@@ -17,7 +17,7 @@ Resources:
 -
 
 Technologies:
-
+- Django. http://144.126.220.0/
 
 Skills:
 - Data Science: NumPy, Pandas
